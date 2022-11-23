@@ -1,0 +1,17 @@
+/* grouping selectors */
+
+.cool,
+.awesome {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.cool {
+    background-color: #000000;
+    color: #fff;
+}
+
+.awesome{
+    background-color: #ffff00;
+}
+
